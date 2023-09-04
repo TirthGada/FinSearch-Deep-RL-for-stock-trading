@@ -7,7 +7,6 @@ developing a deep Q-network (DQN) agent to learn optimal trading decisions,
 and conducting a training loop to iteratively improve the agent’s performance.
 
 
-
 ## END TERM REPORT
 Use deep reinforcement learning (RL) to optimise stock trading strategy and thus maximise investment return.
 
@@ -52,3 +51,5 @@ DQN is a foundational algorithm in deep reinforcement learning and has paved the
 
 
 
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fa%2Fautoregressive-integrated-moving-average-arima.asp&psig=AOvVaw1qym5xbz9wWfOx3diUQY0A&ust=1693923414609000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDvhM2SkYEDFQAAAAAdAAAAABAD![image](https://github.com/TirthGada/FinSearch-Deep-RL-for-stock-trading/assets/118129263/5bc48853-f17d-40ac-9d9c-1f2d3d5889ca)
